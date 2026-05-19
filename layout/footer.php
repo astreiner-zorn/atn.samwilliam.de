@@ -1,20 +1,20 @@
 </div>
 </main>
 
-<script src="/assets/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="https://utensils.samwilliam.de/bootstrap/js/bootstrap.bundle.min.js"></script>
 
 <!-- CKEditor 5 CDN (UMD) -->
-<link rel="stylesheet" href="/assets/ckeditor5/ckeditor5.css">
-<script src="/assets/ckeditor5/ckeditor5.umd.js"></script>
-<script src="/assets/ckeditor5/translations/de.umd.js"></script>
+<link rel="stylesheet" href="https://utensils.samwilliam.de/ckeditor5/ckeditor5.css">
+<script src="https://utensils.samwilliam.de/ckeditor5/ckeditor5.umd.js"></script>
+<script src="https://utensils.samwilliam.de/ckeditor5/translations/de.umd.js"></script>
 
 <!-- Highlight.js (optional, but enabled) -->
-<link rel="stylesheet" href="/assets/highlight/styles/github-dark.min.css">
-<script src="/assets/highlight/highlight.min.js"></script>
-<script src="/assets/highlight/languages/php.min.js"></script>
-<script src="/assets/highlight/languages/javascript.min.js"></script>
-<script src="/assets/highlight/languages/css.min.js"></script>
-<script src="/assets/highlight/languages/sql.min.js"></script>
+<link rel="stylesheet" href="https://utensils.samwilliam.de/highlight/styles/github-dark.min.css">
+<script src="https://utensils.samwilliam.de/highlight/highlight.min.js"></script>
+<script src="https://utensils.samwilliam.de/highlight/languages/php.min.js"></script>
+<script src="https://utensils.samwilliam.de/highlight/languages/javascript.min.js"></script>
+<script src="https://utensils.samwilliam.de/highlight/languages/css.min.js"></script>
+<script src="https://utensils.samwilliam.de/highlight/languages/sql.min.js"></script>
 
 <script>
 (function () {
